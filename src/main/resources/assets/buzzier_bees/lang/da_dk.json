@@ -1,0 +1,120 @@
+{
+  "item.buzzier_bees.four_leaf_clover": "Firkløver",
+
+  "item.buzzier_bees.honey_apple": "Honning æble",
+  "item.buzzier_bees.honey_bread": "Honningbrød",
+  "item.buzzier_bees.glazed_porkchop": "Honningglaseret svinekotelet",
+
+  "item.buzzier_bees.silverfish_bottle": "Flaske Sølvfisk",
+  "item.buzzier_bees.endermite_bottle": "Flaske Endermit",
+  "item.buzzier_bees.bee_bottle": "Flaske Bi",
+
+  "item.buzzier_bees.honeycomb_banner_pattern": "Bannermønster",
+  "item.buzzier_bees.honeycomb_banner_pattern.desc": "Bikage",
+
+  "item.buzzier_bees.grizzly_bear_spawn_egg": "Gråbjørn gydeæg",
+  "item.buzzier_bees.moobloom_spawn_egg": "Moobloom gydeæg",
+
+  "block.buzzier_bees.oak_beehive": "Oak Bikube",
+  "block.buzzier_bees.spruce_beehive": "Gran Bikube",
+  "block.buzzier_bees.birch_beehive": "Birke Bikube",
+  "block.buzzier_bees.jungle_beehive": "Jungle Bikube",
+  "block.buzzier_bees.acacia_beehive": "Acacia bikube",
+  "block.buzzier_bees.dark_oak_beehive": "Mørk eg Bikube",
+  "block.buzzier_bees.crimson_beehive": "Crimson Bikube",
+  "block.buzzier_bees.warped_beehive": "Forvredet Bikube",
+
+  "block.buzzier_bees.crystallized_honey_block": "Krystalliseret honningblok",
+
+  "block.buzzier_bees.honey_lamp" : "Honning lampe",
+
+  "block.buzzier_bees.honeycomb_bricks": "Honningkagesten",
+  "block.buzzier_bees.honeycomb_brick_stairs": "Honningkage murstenstrapper",
+  "block.buzzier_bees.honeycomb_brick_slab": "Honningkage murstensplade",
+  "block.buzzier_bees.honeycomb_brick_wall": "Honningkage murstensvæg",
+  "block.buzzier_bees.honeycomb_brick_vertical_slab": "Honningkage mursten lodret plade",
+  "block.buzzier_bees.chiseled_honeycomb_bricks": "Mejslede honeycomb mursten",
+
+  "block.buzzier_bees.honeycomb_tiles": "Honningkage fliser",
+  "block.buzzier_bees.honeycomb_tile_stairs": "Honningkage flise trapper",
+  "block.buzzier_bees.honeycomb_tile_slab": "Honningkage Fliseplade",
+  "block.buzzier_bees.honeycomb_tile_wall": "Honningkage Flisevæg",
+  "block.buzzier_bees.honeycomb_tile_vertical_slab": "Honningkage Flise lodret plade",
+
+  "block.buzzier_bees.honeycomb_door": "Honningkage Dør",
+  "block.buzzier_bees.honeycomb_trapdoor": "Honningkage Faldlem",
+
+  "block.buzzier_bees.soul_candle": "Sjælelys",
+  "block.buzzier_bees.soul_candle_cake": "Sjælelyskage",
+
+  "block.buzzier_bees.pink_clover": "Pink kløver",
+  "block.buzzier_bees.white_clover": "Hvidkløver",
+  "block.buzzier_bees.buttercup": "Smørblomst",
+
+  "block.buzzier_bees.potted_pink_clover": "Pink Kløver i potte",
+  "block.buzzier_bees.potted_white_clover": "Hvidkløver i potte",
+  "block.buzzier_bees.potted_buttercup": "Smørblomst i potte",
+
+  "entity.buzzier_bees.grizzly_bear": "Gråbjørn",
+  "entity.buzzier_bees.moobloom": "Mubloom",
+
+  "effect.buzzier_bees.sunny": "Solrig",
+
+  "item.minecraft.potion.effect.long_luck": "Lykkedryss",
+  "item.minecraft.potion.effect.strong_luck": "Lykkedryss",
+  "item.minecraft.potion.effect.unluck": "Drik af uheld",
+  "item.minecraft.potion.effect.long_unluck": "Drik af uheld",
+  "item.minecraft.potion.effect.strong_unluck": "Drik af uheld",
+
+  "item.minecraft.splash_potion.effect.long_luck": "Sprøjtedrikken af held",
+  "item.minecraft.splash_potion.effect.strong_luck": "Sprøjtedrikken af held",
+  "item.minecraft.splash_potion.effect.unluck": "Sprøjtedrikken af held",
+  "item.minecraft.splash_potion.effect.long_unluck": "Sprøjtedrikken af uheld",
+  "item.minecraft.splash_potion.effect.strong_unluck": "Sprøjtedrikken af yheld",
+
+  "item.minecraft.lingering_potion.effect.long_luck": "Dvælende lykkedryss",
+  "item.minecraft.lingering_potion.effect.strong_luck": "Dvælende lykkedryss",
+  "item.minecraft.lingering_potion.effect.unluck": "Dvælende trylledrikk af uheld",
+  "item.minecraft.lingering_potion.effect.long_unluck": "Dvælende trylledrikk af uheld",
+  "item.minecraft.lingering_potion.effect.strong_unluck": "Dvælende trylledrikk af uheld",
+
+  "item.minecraft.tipped_arrow.effect.long_luck": "Lykkepil",
+  "item.minecraft.tipped_arrow.effect.strong_luck": "Lykkepil",
+  "item.minecraft.tipped_arrow.effect.unluck": "Ulykkens pil",
+  "item.minecraft.tipped_arrow.effect.long_unluck": "Ulykkens pil",
+  "item.minecraft.tipped_arrow.effect.strong_unluck": "Ulykkens pil",
+
+  "advancements.buzzier_bees.adventure.four_leaf_clover.title": "Bedre held denne gang",
+  "advancements.buzzier_bees.adventure.four_leaf_clover.description": "Find en firkløver",
+
+  "advancements.buzzier_bees.husbandry.use_honey_apple.title": "Et æble om dagen",
+  "advancements.buzzier_bees.husbandry.use_honey_apple.description": "Brug et honningæble til at helbrede levitation",
+
+  "advancements.buzzier_bees.husbandry.use_honey_bread.title": "En Hent-mig-op",
+  "advancements.buzzier_bees.husbandry.use_honey_bread.description": "Brug et honningbrød til at kurere langsomhed",
+
+  "advancements.buzzier_bees.husbandry.use_glazed_porkchop.title": "Knæ svage, arme skat",
+  "advancements.buzzier_bees.husbandry.use_glazed_porkchop.description": "Brug en glaseret svinekotelet til at kurere minetræthed",
+
+  "tooltip.buzzier_bees.is_baby": "Baby",
+  "tooltip.buzzier_bees.has_nectar": "Bestøvet",
+  "tooltip.buzzier_bees.is_angry": "Vred",
+  "tooltip.buzzier_bees.has_stung": "Stingerfri",
+
+  "block.minecraft.banner.buzzier_bees.honeycomb.black": "Sort honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.red": "Rød honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.green": "Grøn honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.brown": "Brun Honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.blue": "Blå honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.purple": "Lilla Honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.cyan": "Cyan Honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.light_gray": "Lys grå honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.gray": "Grå Honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.pink": "Pink honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.lime": "Lime Honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.yellow": "Gul honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.light_blue": "Lyseblå Honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.magenta": "Magenta Honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.orange": "Orange Honningkage",
+  "block.minecraft.banner.buzzier_bees.honeycomb.white": "Hvid Honningkage"
+}
